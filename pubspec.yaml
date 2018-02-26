@@ -1,0 +1,16 @@
+name: buildBulma
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: SpivEgin <email@example.com>
+
+environment:
+  sdk: '>=2.0.0-dev.30.0 <2.0.0'
+
+dependencies:
+  font_awesome: any
+
+dev_dependencies:
+  test: ^0.12.0
+  build_runner: ^0.7.10+1
+  sass_builder: ^1.1.2
