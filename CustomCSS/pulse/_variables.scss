@@ -1,0 +1,40 @@
+////////////////////////////////////////////////
+// PULSE
+////////////////////////////////////////////////
+$orange:       #FF7518;
+$yellow:       #f1c40f;
+$green:        #2ecc71;
+$turquoise:    #1abc9c;
+$blue:         #3498db;
+$purple:       #8e44ad;
+$red:          #e74c3c;
+
+$primary: $purple !default;
+$primary-dark: darken($primary, 10);
+$warning: $orange;
+
+$orange-invert: #fff;
+$warning-invert: $orange-invert;
+
+$background: lighten($primary, 50);
+
+$family-sans-serif: 'Muli', "Helvetica Neue", Arial, sans-serif;
+$body-size: 14px;
+
+$subtitle-color: $primary-dark;
+
+$radius: 0;
+$radius-small: 0;
+$radius-large: 0;
+
+$link-hover: $primary-dark;
+$link-focus: $primary-dark;
+$link-active: $primary-dark;
+
+$navbar-background-color: $primary;
+$navbar-item-color: #fff;
+$navbar-item-hover-color: $navbar-item-color;
+$navbar-item-active-color: $navbar-item-color;
+$navbar-item-hover-background-color: rgba(#000, 0.2);
+$navbar-item-active-background-color: rgba(#000, 0.2);
+$navbar-dropdown-arrow: $navbar-item-color;
