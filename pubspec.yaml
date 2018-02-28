@@ -9,8 +9,8 @@ environment:
 
 dependencies:
   font_awesome: any
+  sass_builder: any
 
 dev_dependencies:
   test: ^0.12.0
   build_runner: ^0.7.10+1
-  sass_builder: any
