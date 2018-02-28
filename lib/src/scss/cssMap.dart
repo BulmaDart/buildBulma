@@ -23,12 +23,12 @@ class TLMcssConverter {
 
   }
   _LoadData(){
-    var fileName = this._tran.FileList[2].split(".");
+    var fileName = this._tran.FileList[4].split(".");
     var brandName = this._tran.DirName.split("/");
     if (fileName[1] == "scss" && fileName[0].startsWith('_',0) == false){
       this.DirName = _tran.DirName.replaceAll("/", this._PL);
-      this.FileName = _tran.FileList[2];
-      this.Brand = brandName[1];
+      this.FileName = _tran.FileList[4];
+      this.Brand = brandName[3];
       this.Path = _tran.DirName;
       this.buildCSS();
     }
@@ -42,12 +42,11 @@ class TLMcssConverter {
 
   }
   buildCSS() async{
-    print(this.Brand);
     print("Building TLM " + this.Brand + " CSS");
     String css = await compile(this.Path + this._PL + this.FileName);
-    var FileExt = this.FileName.split(".");
-    print("Saving TLM-CSS to: build/css/"+ this.Brand + "-" + this.Brand + ".css");
-    new File("build" +this._PL + "css" + this._PL + this.DirName + this._PL + this.Brand + ".css").writeAsStringSync(css);
+    new File("lib"+ this._PL+ "css" + this._PL + this.Brand +this._PL + this
+        .Brand + ".css")
+        .writeAsStringSync(css);
   }
 
 }
@@ -63,27 +62,29 @@ class CreateDir {
     if(SassDir != null){
       this._tran = SassDir;
     }
+//    print(SassDir.DirName);
     this._LoadData();
     this._CreateDir();
 
   }
 
   _CreateDir() {
-    var fileName = this._tran.FileList[2].split(".");
+    var fileName = this._tran.FileList[4].split(".");
     if (fileName[1] == "scss" && fileName[0].startsWith('_', 0) == false) {
+      var brandName = this._tran.DirName.split("/");
+      String Brand = brandName[3];
       this.DirName = _tran.DirName.replaceAll("/", this._PL);
-     final myDir = new Directory('build' + this._PL + 'css' + this._PL + this
-          .DirName)
+     final myDir = new Directory('lib' + this._PL + 'css' + this._PL + Brand)
           .create(recursive: true)
       // The created directory is returned as a Future.
           .then((Directory directory) {
-        print(directory.path);
       });
     }
   }
 
   _LoadData() {
-    var fileName = this._tran.FileList[2].split(".");
+//  print(this._tran.FileList);
+    var fileName = this._tran.FileList[4].split(".");
     if (fileName[1] == "scss" && fileName[0].startsWith('_', 0) == false) {
       this.DirName = _tran.DirName.replaceAll("/", this._PL);
     }
@@ -96,4 +97,13 @@ class CreateDir {
       this._PL = "\\";
     }
   }
+}
+bool winos = Platform.isWindows;
+String oscheck(){
+  if (winos != true){
+    return "/";
+  } else {
+    return "\\";
+  }
+
 }

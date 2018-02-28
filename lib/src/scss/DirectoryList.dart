@@ -3,7 +3,8 @@ part of tlmsass;
 // Returns a Map of Dir name and list of files in that first Subdirectory
 List<TLMSassConverter> directoryList(String DirectoryPath) {
   // Get the system temp directory.
-  var customDir = new Directory(DirectoryPath);
+  String PL = oscheck();
+  var customDir = new Directory("lib" + PL + "src" + PL + DirectoryPath);
   int count = -1;
   // Map returned to process the sXss
   List<TLMSassConverter> convertList = new List<TLMSassConverter>();
