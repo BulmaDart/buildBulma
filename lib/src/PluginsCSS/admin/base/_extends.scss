@@ -1,0 +1,107 @@
+/*
+* Legion Market v2017.11.0
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+
+//@extend-elements
+//original selectors
+//html, body
+%extend_1 {
+  font-family: $font_0, $font_1;
+  font-size: 16px;
+  line-height: 1.5;
+  height: 100%;
+  background: $color_athens_gray_approx;
+}
+
+
+html {
+  @extend %extend_1;
+}
+body {
+  @extend %extend_1;
+}
+.navbar-item {
+  font-size: 14px;
+  font-weight: 700;
+  &.brand-text {
+    font-weight: 300;
+  }
+}
+.navbar-link {
+  font-size: 14px;
+  font-weight: 700;
+}
+.columns {
+  width: 100%;
+  height: 100%;
+}
+.menu-label {
+  color: $color_manatee_approx;
+  letter-spacing: 1.3;
+  font-weight: 700;
+}
+.card {
+  //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+  box-shadow: 0 2px 4px $black_18;
+  margin-bottom: 2rem;
+  .content {
+    font-size: 14px;
+  }
+}
+.card-header-title {
+  color: $color_manatee_approx;
+  font-weight: 400;
+}
+.info-tiles {
+  margin: 1rem 0;
+  .subtitle {
+    font-weight: 300;
+    color: $color_manatee_approx;
+  }
+}
+.card-footer-item {
+  font-size: 14px;
+  font-weight: 700;
+  color: $color_manatee_approx;
+  &:hover {
+  }
+}
+nav.navbar {
+  border-top: 4px solid $color_mariner_approx;
+  margin-bottom: 1rem;
+}
+.menu-list a {
+  color: $color_tangaroa_approx;
+  font-size: 14px;
+  font-weight: 700;
+  &:hover {
+    background-color: transparent;
+    color: $color_mariner_approx;
+  }
+  &.is-active {
+    background-color: transparent;
+    color: $color_mariner_approx;
+    font-weight: 700;
+  }
+}
+.hero.welcome {
+  &.is-info {
+    background: linear-gradient(to right, $color_havelock_blue_approx, $color_scooter_approx);
+  }
+  .title {
+    color: $color_alabaster_approx;
+  }
+  .subtitle {
+    color: $color_alabaster_approx;
+  }
+}
+.card-table .table {
+  margin-bottom: 0;
+}
+.events-card .card-table {
+  max-height: 250px;
+  overflow-y: scroll;
+}

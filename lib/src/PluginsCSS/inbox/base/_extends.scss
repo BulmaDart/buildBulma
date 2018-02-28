@@ -1,0 +1,246 @@
+/*
+* Legion Market v
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+
+html {
+  font-family: $font_0, $font_1;
+  font-size: 14px;
+  line-height: 1.5;
+  height: 100%;
+  background-color: $white;
+}
+body {
+  font-family: $font_0, $font_1;
+  font-size: 14px;
+  line-height: 1.5;
+  height: 100%;
+  background-color: $white;
+}
+.nav {
+  &.is-dark {
+    background-color: $color_shark_approx;
+    color: $black_haze;
+    .nav-item a {
+      color: $black_haze;
+      &.button.is-default {
+        color: $black_haze;
+        background-color: transparent;
+        border-width: 2px;
+      }
+    }
+    a.nav-item {
+      color: $black_haze;
+    }
+  }
+  &.menu {
+    border-bottom: 1px solid $color_bon_jour_approx;
+    .nav-item {
+      .icon-btn {
+        border: 3px solid $color_submarine_approx;
+        //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+        border-radius: 90px;
+        padding: 5px 7px;
+        color: $color_submarine_approx;
+        .fa {
+          font-size: 20px;
+          color: $color_submarine_approx;
+        }
+      }
+      &.is-active .icon-btn {
+        color: $color_keppel_approx;
+        border: 3px solid $color_keppel_approx;
+        .fa {
+          color: $color_keppel_approx;
+        }
+      }
+    }
+  }
+}
+.aside {
+  display: block;
+  background-color: $color_alabaster_approx;
+  border-right: 1px solid $color_alto_approx;
+  .compose {
+    height: 95px;
+    margin: 0 -10px;
+    padding: 25px 30px;
+    .button {
+      color: $black_haze;
+      .compose {
+        font-size: 14px;
+        font-weight: 700;
+      }
+    }
+  }
+  .main {
+    padding: 40px;
+    color: $color_sirocco_approx;
+    .item {
+      display: block;
+      padding: 10px 0;
+      color: $color_sirocco_approx;
+      &.active {
+        background-color: $seashell;
+        margin: 0 -50px;
+        padding-left: 50px;
+      }
+      &:active {
+        background-color: $concrete;
+        margin: 0 -50px;
+        padding-left: 50px;
+      }
+      &:hover {
+        background-color: $concrete;
+        margin: 0 -50px;
+        padding-left: 50px;
+      }
+    }
+    .icon {
+      font-size: 19px;
+      padding-right: 30px;
+      color: $color_star_dust_approx;
+    }
+    .name {
+      font-size: 15px;
+      color: $color_chicago_approx;
+      font-weight: 500;
+    }
+  }
+  .title {
+    color: $color_sirocco_approx;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+.messages {
+  display: block;
+  background-color: $white;
+  border-right: 1px solid $color_alto_approx;
+  padding: 40px 20px;
+  .action-buttons {
+    padding: 0;
+    margin-top: -20px;
+  }
+}
+.message {
+  display: block;
+  background-color: $white;
+  padding: 40px 20px;
+  .action-buttons {
+    padding: 0;
+    margin-top: -5px;
+  }
+}
+.action-buttons {
+  .pg {
+    .title {
+      display: block;
+      margin-top: 0;
+      padding-top: 0;
+      margin-bottom: 3px;
+      font-size: 12px;
+      color: $color_silver_chalice_approx;
+    }
+    a {
+      font-size: 12px;
+      color: $color_silver_chalice_approx;
+      text-decoration: none;
+    }
+  }
+  .control.is-grouped {
+    display: inline-block;
+    margin-right: 30px;
+    &:last-child {
+      margin-right: 0;
+    }
+    .button {
+      margin-right: -5px;
+      //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+      border-radius: 0;
+      &:first-child {
+        //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+        border-radius: 5px 0 0 5px;
+      }
+      &:last-child {
+        //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+        border-radius: 0 5px 5px 0;
+      }
+    }
+  }
+}
+.pg {
+  display: inline-block;
+  top: 10px;
+}
+.inbox-messages {
+  margin-top: 60px;
+  .card {
+    width: 100%;
+  }
+  strong {
+    color: $color_chicago_approx;
+  }
+  .msg-check {
+    padding: 0 20px;
+  }
+  .msg-subject {
+    padding: 10px 0;
+    color: $color_chicago_approx;
+    .fa {
+      font-size: 14px;
+      padding: 3px 0;
+    }
+  }
+  .msg-attachment {
+    float: right;
+  }
+  .msg-snippet {
+    padding: 5px 20px 0 5px;
+  }
+  .msg-timestamp {
+    float: right;
+    padding: 0 20px;
+    color: $color_chicago_approx;
+  }
+}
+.message-preview {
+  margin-top: 60px;
+  .avatar {
+    display: inline-block;
+  }
+  .top .address {
+    display: inline-block;
+    padding: 0 20px;
+  }
+}
+.address {
+  .name {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .email {
+    font-weight: bold;
+    color: $color_heather_approx;
+  }
+}
+.is-grouped .button {
+  background-image: linear-gradient($color_desert_storm_approx, $seashell);
+  .fa {
+    font-size: 15px;
+    color: $color_silver_chalice_approx;
+  }
+}
+.avatar img {
+  width: 40px;
+  //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+  border-radius: 50px;
+  border: 2px solid $color_mountain_mist_approx;
+  padding: 2px;
+}
+.card.active {
+  background-color: $color_wild_sand_approx;
+}

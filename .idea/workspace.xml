@@ -3,185 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/bulma.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/bulma.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/base/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/base/generic.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/generic.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/base/helpers.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/helpers.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/base/minireset.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/minireset.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/breadcrumb.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/breadcrumb.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/card.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/card.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/dropdown.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/dropdown.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/level.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/level.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/media.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/media.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/menu.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/menu.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/message.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/message.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/modal.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/modal.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/navbar.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/navbar.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/pagination.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/pagination.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/panel.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/panel.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/components/tabs.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/tabs.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/box.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/box.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/button.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/button.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/container.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/container.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/content.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/content.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/form.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/form.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/icon.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/icon.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/image.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/image.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/notification.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/notification.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/other.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/other.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/progress.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/progress.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/table.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/table.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/tag.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/tag.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/elements/title.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/title.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/grid/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/grid/columns.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/columns.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/grid/tiles.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/tiles.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/layout/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/layout/footer.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/footer.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/layout/hero.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/hero.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/layout/section.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/section.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/animations.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/animations.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/controls.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/controls.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/derived-variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/derived-variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/functions.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/functions.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/initial-variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/initial-variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/bulma/scss/utilities/mixins.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cerulean/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cerulean/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cerulean/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cerulean/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cerulean/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cosmo/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cosmo/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cosmo/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cosmo/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cosmo/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cyborg/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cyborg/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cyborg/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cyborg/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/cyborg/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/darkly/thumbnail.png" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/thumbnail.png" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/default/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/default/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/default/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/default/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/default/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/flatly/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/flatly/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/flatly/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/flatly/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/flatly/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/is-awesome.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/is-awesome.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/_all.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/_all.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/box.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/box.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/case.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/case.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/chat.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/chat.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/datatable.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/datatable.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/fullcalendar.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/fullcalendar.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/general.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/general.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/listgroup.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/listgroup.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/message.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/message.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/modal.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/modal.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/navbar.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/navbar.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/package.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/package.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/panel.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/panel.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/patch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/patch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/range.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/range.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/ribbon.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/ribbon.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/shadow.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/shadow.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/sidebar.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/sidebar.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/tab.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/tab.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/table.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/table.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/tile.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/tile.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/is-awesome/scss/variable.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/variable.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/journal/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/journal/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/journal/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/journal/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/journal/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/litera/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/litera/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/litera/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/litera/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/litera/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lumen/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lumen/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lumen/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lumen/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lumen/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lux/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lux/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lux/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lux/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/lux/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materia/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materia/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materia/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materia/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materia/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materialDesign/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materialDesign/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/materialDesign/bulmaMaterialDesigne.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/bulmaMaterialDesigne.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/minty/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/minty/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/minty/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/minty/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/minty/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/pulse/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/pulse/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/pulse/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/pulse/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/pulse/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/sandstone/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/sandstone/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/sandstone/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/sandstone/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/sandstone/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/simplex/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/simplex/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/simplex/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/simplex/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/simplex/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/slate/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/slate/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/slate/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/slate/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/slate/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/solar/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/solar/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/solar/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/solar/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/solar/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/spacelab/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/spacelab/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/spacelab/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/spacelab/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/spacelab/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/superhero/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/superhero/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/superhero/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/superhero/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/superhero/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/united/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/united/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/united/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/united/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/united/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/yeti/_overrides.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_overrides.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/yeti/_variables.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/yeti/bulmaswatch.min.css" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/yeti/bulmaswatch.min.css.map" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/CustomCSS/yeti/bulmaswatch.scss" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.scss" />
-      <change beforePath="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" afterPath="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" />
+      <change beforePath="$PROJECT_DIR$/bin/buildDirectory.dart" afterPath="$PROJECT_DIR$/bin/buildDirectory.dart" />
+      <change beforePath="$PROJECT_DIR$/bin/compile.dart" afterPath="$PROJECT_DIR$/bin/compile.dart" />
+      <change beforePath="$PROJECT_DIR$/lib/compile.dart" afterPath="$PROJECT_DIR$/lib/compile.dart" />
+      <change beforePath="$PROJECT_DIR$/lib/createDir.dart" afterPath="$PROJECT_DIR$/lib/createDir.dart" />
+      <change beforePath="$PROJECT_DIR$/lib/css/bulma/bulma.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/cerulean/cerulean.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/cosmo/cosmo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/cyborg/cyborg.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/darkly/darkly.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/default/default.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/flatly/flatly.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/is-awesome/is-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/journal/journal.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/litera/litera.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/lumen/lumen.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/lux/lux.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/materia/materia.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/materialDesign/materialDesign.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/minty/minty.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/pulse/pulse.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/sandstone/sandstone.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/simplex/simplex.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/slate/slate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/solar/solar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/spacelab/spacelab.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/superhero/superhero.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/united/united.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/css/yeti/yeti.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" afterPath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -192,33 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cssMap.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
-                <element signature="e#829#929#0" expanded="false" />
-                <element signature="e#1453#1614#0" expanded="false" />
-                <marker date="1519778179501" expanded="true" signature="1164:1165" ph="(...)" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectoryList.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/scss/DirectoryList.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -257,13 +80,13 @@
         <option value="$PROJECT_DIR$/CustomCSS/bulma/scss/base/_all.scss" />
         <option value="$PROJECT_DIR$/CustomCSS/bulma/bulma.scss" />
         <option value="$PROJECT_DIR$/bin/createDir.dart" />
-        <option value="$PROJECT_DIR$/bin/buildDirectory.dart" />
-        <option value="$PROJECT_DIR$/bin/compile.dart" />
         <option value="$PROJECT_DIR$/CustomCSS/is-awesome/scss/_all.scss" />
         <option value="$PROJECT_DIR$/bin/main.dart" />
-        <option value="$PROJECT_DIR$/lib/compile.dart" />
-        <option value="$PROJECT_DIR$/lib/createDir.dart" />
         <option value="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" />
+        <option value="$PROJECT_DIR$/bin/buildDirectory.dart" />
+        <option value="$PROJECT_DIR$/lib/createDir.dart" />
+        <option value="$PROJECT_DIR$/lib/compile.dart" />
+        <option value="$PROJECT_DIR$/bin/compile.dart" />
         <option value="$PROJECT_DIR$/lib/src/scss/cssMap.dart" />
       </list>
     </option>
@@ -365,22 +188,6 @@
             <path>
               <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
               <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -512,16 +319,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519674045886</updated>
-      <workItem from="1519674048886" duration="51177000" />
+      <workItem from="1519674048886" duration="57256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51177000" />
+    <option name="totallyTimeSpent" value="57256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Buck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -544,8 +350,8 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22750643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17352185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -721,42 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/compile.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/compile.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/main.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -769,23 +543,174 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/is-awesome/is-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="968" column="31" lean-forward="true" selection-start-line="968" selection-start-column="31" selection-end-line="968" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/scss/DirectoryList.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_base-styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_utils.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_lists.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_media-queries.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_tables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/modules/_spacing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/template/tlm.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/compile.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/compile.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        <state relative-caret-position="782">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
-            <element signature="e#829#929#0" expanded="false" />
-            <element signature="e#1453#1614#0" expanded="false" />
-            <marker date="1519778179501" expanded="true" signature="1164:1165" ph="(...)" />
+            <element signature="e#1447#1547#0" expanded="false" />
+            <marker date="1519803445992" expanded="true" signature="1700:1701" ph="(...)" />
           </folding>
         </state>
       </provider>

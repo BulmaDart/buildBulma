@@ -1,0 +1,40 @@
+/*
+* Legion Market v2017.11.0
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+/*
+* Legion Market v
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+/*
+* Legion Market v
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+html {
+  font-family: "Open Sans", "serif";
+}
+
+body {
+  font-family: "Open Sans", "serif";
+}
+
+.hero.is-info {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://unsplash.it/1200/900?random") no-repeat center center fixed;
+  background-size: cover;
+}
+.hero .nav {
+  box-shadow: none;
+}
+.hero .subtitle {
+  padding: 3rem 0;
+  line-height: 1.5;
+}
+.hero.is-success .nav {
+  box-shadow: none;
+}

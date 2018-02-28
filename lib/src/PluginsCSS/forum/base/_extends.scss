@@ -1,0 +1,67 @@
+/*
+* Legion Market v
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+
+html {
+  font-family: $font_0, $font_1;
+  background: $color_black_squeeze_approx;
+}
+body {
+  font-family: $font_0, $font_1;
+  background: $color_black_squeeze_approx;
+}
+footer {
+  background-color: $color_black_squeeze_approx !important;
+}
+.topNav {
+  border-top: 5px solid $color_curious_blue_approx;
+  .container {
+    border-bottom: 1px solid $color_mystic_approx;
+  }
+}
+.container .columns {
+  margin: 3rem 0;
+}
+.navbar-menu .navbar-item {
+  padding: 0 2rem;
+}
+aside.menu {
+  padding-top: 3rem;
+  .menu-list {
+    line-height: 1.5;
+  }
+  .menu-label {
+    padding-left: 10px;
+    font-weight: 700;
+  }
+}
+.button.is-primary.is-alt {
+  background: $color_bright_turquoise_approx;
+  background: linear-gradient(to bottom, $color_blue_ribbon_approx, $color_bright_turquoise_approx);
+  font-weight: 700;
+  font-size: 14px;
+  height: 3rem;
+  line-height: 2.8;
+}
+.media-left img {
+  //Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+  border-radius: 50%;
+}
+.media-content p {
+  font-size: 14px;
+  line-height: 2.3;
+  font-weight: 700;
+  color: $color_manatee_approx;
+}
+article.post {
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $color_mystic_approx;
+  &:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}

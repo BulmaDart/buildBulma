@@ -8,3 +8,9 @@ void compileCSS() {
   }
 
 }
+void compilePlugins(){
+  var customPlugns = directoryList("PluginsCSS");
+  for(int i = 0; i < customPlugns.length; i++){
+    new TLMcssConverter(customPlugns[i], "Plugins");
+  }
+}
