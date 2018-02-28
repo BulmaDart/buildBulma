@@ -13,4 +13,4 @@ dependencies:
 dev_dependencies:
   test: ^0.12.0
   build_runner: ^0.7.10+1
-  sass_builder: ^1.1.2
+  sass_builder: any

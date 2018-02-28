@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bin/buildDirectory.dart" afterPath="$PROJECT_DIR$/bin/buildDirectory.dart" />
-      <change beforePath="$PROJECT_DIR$/bin/compile.dart" afterPath="$PROJECT_DIR$/bin/compile.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/compile.dart" afterPath="$PROJECT_DIR$/lib/compile.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/createDir.dart" afterPath="$PROJECT_DIR$/lib/createDir.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/css/bulma/bulma.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cerulean/cerulean.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cosmo/cosmo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cyborg/cyborg.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/darkly/darkly.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/default/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/flatly/flatly.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/is-awesome/is-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/journal/journal.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/litera/litera.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/lumen/lumen.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/lux/lux.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/materia/materia.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/materialDesign/materialDesign.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/minty/minty.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/pulse/pulse.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/sandstone/sandstone.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/simplex/simplex.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/slate/slate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/solar/solar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/spacelab/spacelab.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/superhero/superhero.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/united/united.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/yeti/yeti.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" afterPath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" />
-    </list>
+    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -319,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519674045886</updated>
-      <workItem from="1519674048886" duration="57256000" />
+      <workItem from="1519674048886" duration="57478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57256000" />
+    <option name="totallyTimeSpent" value="57478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -351,7 +320,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17352185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17352185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -712,6 +681,17 @@
             <element signature="e#1447#1547#0" expanded="false" />
             <marker date="1519803445992" expanded="true" signature="1700:1701" ph="(...)" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
