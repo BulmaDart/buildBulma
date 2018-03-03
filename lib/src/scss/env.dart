@@ -21,7 +21,7 @@ Map<int, Map<String, String>> SupportFiles = {
   0: {
     "AssestDirectorySource": "FontAwesome4",
     "AssestDirectoryDest": "FontAwesome4",
-    "AssestExportDirectory": "lib/css/FontAwesome4/webfonts",
+    "AssestExportDirectory": "lib/css/FontAwesome4/fonts",
   },
   1: {
     "AssestDirectorySource": "FontAwesome5",
