@@ -5,7 +5,19 @@ class TLMSassConverter {
   List<String> FileList;
   int Count;
 }
-class TLMcssConverter {
+
+bool winos = Platform.isWindows;
+String OSCheck(){
+  if (winos != true){
+    return "/";
+  } else {
+    return "\\";
+  }
+
+}
+
+
+class TLMCSSConverter {
   String Brand;
   String BrandDir;
   String DirName;
@@ -16,7 +28,7 @@ class TLMcssConverter {
   bool _winos = Platform.isWindows;
   TLMSassConverter _tran;
 
-  TLMcssConverter(TLMSassConverter SassDir, [String OptionalPath]){
+  TLMCSSConverter(TLMSassConverter SassDir, [String OptionalPath]){
   this._oscheck();
   if(OptionalPath != null){
     bool frontPathNotation = OptionalPath.startsWith("/");
@@ -77,8 +89,9 @@ class CreateDir {
   bool _winos = Platform.isWindows;
   TLMSassConverter _tran;
 
+
   CreateDir(TLMSassConverter SassDir, [String OptionalPath] ) {
-    this._oscheck();
+    this._OSCheck();
     if(SassDir != null){
       this._tran = SassDir;
     }
@@ -109,14 +122,13 @@ class CreateDir {
         Brand = _ExtendPath + _PL + Brand;
       }
 
-     final myDir = new Directory('lib' + this._PL + 'css' + this._PL + Brand)
+     new Directory('lib' + this._PL + 'css' + this._PL + Brand)
           .create(recursive: true)
       // The created directory is returned as a Future.
           .then((Directory directory) {
       });
     }
   }
-
   _LoadData() {
 //  print(this._tran.FileList);
     var fileName = this._tran.FileList[4].split(".");
@@ -125,7 +137,7 @@ class CreateDir {
     }
   }
 
-  _oscheck() {
+  _OSCheck() {
     if (this._winos != true) {
       this._PL = "/";
     } else {
@@ -133,12 +145,115 @@ class CreateDir {
     }
   }
 }
-bool winos = Platform.isWindows;
-String oscheck(){
-  if (winos != true){
-    return "/";
-  } else {
-    return "\\";
+
+class CopySupportFiles {
+  String DirName;
+  String _PL = "\\";
+  String _ExtendPath;
+  bool _winos = Platform.isWindows;
+  TLMSassConverter _supportFiles;
+
+  CopySupportFiles(TLMSassConverter SupportFiles, String OutPutPath ) {
+    this._OSCheck();
+    if(SupportFiles != null){
+      this._supportFiles = SupportFiles;
+    }
+    if(OutPutPath != null){
+      bool frontPathNotation = OutPutPath.startsWith("/");
+      if (frontPathNotation != true){
+        OutPutPath = "/"+ OutPutPath;
+      }
+      bool backPathNotation = OutPutPath.endsWith("/");
+      if(backPathNotation == true){
+        OutPutPath = OutPutPath.replaceFirst("/", "", OutPutPath.length);
+      }
+      this._ExtendPath = OutPutPath.replaceAll("/", this._PL);
+    }
+    this._CopyFiles();
+    print("Copied Support Files as well :)");
   }
 
+  _CopyFiles() {
+//  print(this._tran.FileList);
+    var fileName = this._supportFiles.FileList[4].split(".");
+    if (fileName[1] != "scss" && fileName[0].startsWith('_', 0) == false) {
+      var brandName = this._supportFiles.DirName.split("/");
+      String Brand = brandName[3];
+      this.DirName = _supportFiles.DirName.replaceAll("/", this._PL);
+      if (_ExtendPath != null){
+        Brand = _ExtendPath;
+      }
+      DirName = _supportFiles.DirName.replaceAll("/", this._PL);
+        final file = new File(DirName + _PL +_supportFiles.FileList[4]);
+        file.copy('lib' + this._PL + 'css' + Brand + _PL + _supportFiles.FileList[3] + _PL +_supportFiles.FileList[4]);
+    }
+
+}
+  _OSCheck() {
+    if (this._winos != true) {
+      this._PL = "/";
+    } else {
+      this._PL = "\\";
+    }
+  }
+}
+
+
+//
+
+class CreateSupportDir {
+  String DirName;
+  String _PL = "\\";
+  String _ExtendPath;
+  bool _winos = Platform.isWindows;
+  TLMSassConverter _supportFiles;
+
+
+  CreateSupportDir(TLMSassConverter SupportFiles, [String OptionalPath] ) {
+    this._OSCheck();
+    if(SupportFiles != null){
+      this._supportFiles = SupportFiles;
+    }
+
+    if(OptionalPath != null){
+      bool frontPathNotation = OptionalPath.startsWith("/");
+      if (frontPathNotation != true){
+        OptionalPath = "/"+ OptionalPath;
+      }
+      bool backPathNotation = OptionalPath.endsWith("/");
+      if(backPathNotation == true){
+        OptionalPath = OptionalPath.replaceFirst("/", "", OptionalPath.length);
+      }
+      this._ExtendPath = OptionalPath.replaceAll("/", this._PL);
+    }
+//    print(SupportFiles.DirName);
+    this._CreateSupportDir();
+
+
+  }
+
+  _CreateSupportDir() {
+    var fileName = this._supportFiles.FileList[4].split(".");
+    if (fileName[1] != "scss" && fileName[0].startsWith('_', 0) == false) {
+      var brandName = this._supportFiles.DirName.split("/");
+      String Brand = brandName[3];
+      this.DirName = _supportFiles.DirName.replaceAll("/", this._PL);
+      if (_ExtendPath != null){
+        Brand = _ExtendPath + _PL + Brand;
+      }
+      new Directory('lib' + this._PL + 'css' + this._PL + Brand)
+          .create(recursive: true)
+      // The created directory is returned as a Future.
+          .then((Directory directory) {
+      });
+    }
+  }
+
+  _OSCheck() {
+    if (this._winos != true) {
+      this._PL = "/";
+    } else {
+      this._PL = "\\";
+    }
+  }
 }
