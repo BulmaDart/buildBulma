@@ -73,7 +73,7 @@ class TLMCSSConverter {
 
   }
   buildCSS() async{
-    print("Building TLM " + this.Brand + " CSS");
+//    print("Building TLM " + this.Brand + " CSS");
     String css = await compile(this.Path + this._PL + this.FileName);
     new File("lib"+ this._PL+ "css" + this._PL + BrandDir +this._PL + this
         .Brand + ".css")
@@ -170,7 +170,6 @@ class CopySupportFiles {
       this._ExtendPath = OutPutPath.replaceAll("/", this._PL);
     }
     this._CopyFiles();
-    print("Copied Support Files as well :)");
   }
 
   _CopyFiles() {

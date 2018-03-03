@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/supportAssests.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/src/scss/env.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/supportFiles.dart" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bin/buildDirectory.dart" afterPath="$PROJECT_DIR$/bin/buildDirectory.dart" />
-      <change beforePath="$PROJECT_DIR$/bin/compile.dart" afterPath="$PROJECT_DIR$/bin/compile.dart" />
       <change beforePath="$PROJECT_DIR$/lib/compile.dart" afterPath="$PROJECT_DIR$/lib/compile.dart" />
       <change beforePath="$PROJECT_DIR$/lib/createDir.dart" afterPath="$PROJECT_DIR$/lib/createDir.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/admin/admin.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/blog/blog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/feed/feed.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/flyer/flyer.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/forum/forum.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/hero/hero.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/inbox/inbox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/index/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/login/login.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/tlm/tlm.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/Plugins/tlmbrand/tlmbrand.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/bulma/bulma.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cerulean/cerulean.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cosmo/cosmo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/cyborg/cyborg.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/darkly/darkly.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/default/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/flatly/flatly.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/is-awesome/is-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/journal/journal.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/litera/litera.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/lumen/lumen.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/lux/lux.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/materia/materia.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/materialDesign/materialDesign.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/minty/minty.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/pulse/pulse.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/sandstone/sandstone.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/simplex/simplex.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/slate/slate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/solar/solar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/spacelab/spacelab.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/superhero/superhero.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/united/united.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/css/yeti/yeti.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lib/src/sassCompiler.dart" afterPath="$PROJECT_DIR$/lib/src/sassCompiler.dart" />
-      <change beforePath="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" afterPath="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" />
       <change beforePath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" afterPath="$PROJECT_DIR$/lib/src/scss/cssMap.dart" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,99 +14,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="createDir.dart" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="653">
-                  <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cssMap.dart" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="187" column="18" lean-forward="false" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="18" />
-                  <folding>
-                    <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
-                    <element signature="e#151#225#0" expanded="false" />
-                    <element signature="n#!!block;n#TLMCSSConverter#0" expanded="false" />
-                    <element signature="e#511#1038#0" expanded="false" />
-                    <element signature="e#1052#1561#0" expanded="false" />
-                    <element signature="e#1574#1674#0" expanded="false" />
-                    <element signature="e#1688#1951#0" expanded="false" />
-                    <element signature="e#1827#1914#0" expanded="false" />
-                    <element signature="n#!!block;n#CreateDir#0" expanded="false" />
-                    <element signature="e#2161#2754#0" expanded="false" />
-                    <element signature="e#2771#3351#0" expanded="false" />
-                    <element signature="e#3155#3200#0" expanded="false" />
-                    <element signature="e#3366#3601#0" expanded="false" />
-                    <element signature="e#3616#3716#0" expanded="false" />
-                    <element signature="e#5236#5336#0" expanded="false" />
-                    <element signature="n#!!block;n#CreateSupportDir#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="compile.dart" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lib/compile.dart">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="cssMap.dart" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="296">
-                  <caret line="172" column="42" lean-forward="false" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
-                  <folding>
-                    <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
-                    <element signature="e#151#225#0" expanded="false" />
-                    <element signature="n#!!block;n#TLMCSSConverter#0" expanded="false" />
-                    <element signature="e#511#1038#0" expanded="false" />
-                    <element signature="e#1052#1561#0" expanded="false" />
-                    <element signature="e#1574#1674#0" expanded="false" />
-                    <element signature="e#1688#1951#0" expanded="false" />
-                    <element signature="e#1827#1914#0" expanded="false" />
-                    <element signature="n#!!block;n#CreateDir#0" expanded="false" />
-                    <element signature="e#2161#2754#0" expanded="false" />
-                    <element signature="e#2771#3351#0" expanded="false" />
-                    <element signature="e#3155#3200#0" expanded="false" />
-                    <element signature="e#3366#3601#0" expanded="false" />
-                    <element signature="e#3616#3716#0" expanded="false" />
-                    <element signature="e#5236#5336#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="env.dart" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/src/scss/env.dart">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="39" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="cssMap.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
+                <element signature="e#151#225#0" expanded="false" />
+                <element signature="e#1052#1561#0" expanded="false" />
+                <element signature="e#1574#1674#0" expanded="false" />
+                <element signature="e#1829#1916#0" expanded="false" />
+                <element signature="n#!!block;n#CreateDir#0" expanded="false" />
+                <element signature="e#2163#2756#0" expanded="false" />
+                <element signature="e#2773#3353#0" expanded="false" />
+                <element signature="e#3157#3202#0" expanded="false" />
+                <element signature="e#3368#3603#0" expanded="false" />
+                <element signature="e#3618#3718#0" expanded="false" />
+                <element signature="n#!!block;n#CopySupportFiles#0" expanded="false" />
+                <element signature="e#5193#5293#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compile.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/compile.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createDir.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -203,10 +113,10 @@
         <option value="$PROJECT_DIR$/lib/supportFiles.dart" />
         <option value="$PROJECT_DIR$/bin/compile.dart" />
         <option value="$PROJECT_DIR$/bin/supportAssests.dart" />
-        <option value="$PROJECT_DIR$/lib/createDir.dart" />
         <option value="$PROJECT_DIR$/lib/src/scss/env.dart" />
-        <option value="$PROJECT_DIR$/lib/compile.dart" />
         <option value="$PROJECT_DIR$/lib/src/scss/cssMap.dart" />
+        <option value="$PROJECT_DIR$/lib/compile.dart" />
+        <option value="$PROJECT_DIR$/lib/createDir.dart" />
       </list>
     </option>
   </component>
@@ -314,24 +224,7 @@
             <path>
               <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
               <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -469,16 +362,15 @@
       <workItem from="1519806235131" duration="868000" />
       <workItem from="1519809508748" duration="709000" />
       <workItem from="1519989273385" duration="890000" />
-      <workItem from="1520077284197" duration="20836000" />
+      <workItem from="1520077284197" duration="21782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80781000" />
+    <option name="totallyTimeSpent" value="81727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -495,7 +387,7 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17930591" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17930591" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JSON Utils" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -715,42 +607,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/compile.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/supportAssests.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/supportFiles.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/sassCompiler.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -763,14 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/scss/env.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -779,35 +631,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/supportFiles.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/supportAssests.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/compile.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/scss/cssMap.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="187" column="18" lean-forward="false" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="18" />
+        <state relative-caret-position="596">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
           <folding>
             <element signature="n#!!block;n#TLMSassConverter#0" expanded="false" />
             <element signature="e#151#225#0" expanded="false" />
-            <element signature="n#!!block;n#TLMCSSConverter#0" expanded="false" />
-            <element signature="e#511#1038#0" expanded="false" />
             <element signature="e#1052#1561#0" expanded="false" />
             <element signature="e#1574#1674#0" expanded="false" />
-            <element signature="e#1688#1951#0" expanded="false" />
-            <element signature="e#1827#1914#0" expanded="false" />
+            <element signature="e#1829#1916#0" expanded="false" />
             <element signature="n#!!block;n#CreateDir#0" expanded="false" />
-            <element signature="e#2161#2754#0" expanded="false" />
-            <element signature="e#2771#3351#0" expanded="false" />
-            <element signature="e#3155#3200#0" expanded="false" />
-            <element signature="e#3366#3601#0" expanded="false" />
-            <element signature="e#3616#3716#0" expanded="false" />
-            <element signature="e#5236#5336#0" expanded="false" />
-            <element signature="n#!!block;n#CreateSupportDir#0" expanded="false" />
+            <element signature="e#2163#2756#0" expanded="false" />
+            <element signature="e#2773#3353#0" expanded="false" />
+            <element signature="e#3157#3202#0" expanded="false" />
+            <element signature="e#3368#3603#0" expanded="false" />
+            <element signature="e#3618#3718#0" expanded="false" />
+            <element signature="n#!!block;n#CopySupportFiles#0" expanded="false" />
+            <element signature="e#5193#5293#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/compile.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="704">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -26,20 +26,25 @@ void _compile(String SourceCSSDirectory, [String CSSExportDirectory]){
   for(int i = 0; i < customPlugins.length; i++){
     new TLMCSSConverter(customPlugins[i], CSSExportDirectory);
   }
+
 }
 void _copySupportFiles(String SourceCSSDirectory, [String CSSExportDirectory]){
   var customPlugins = directoryList(SourceCSSDirectory);
   for(int i = 0; i < customPlugins.length; i++){
     new CopySupportFiles(customPlugins[i], CSSExportDirectory);
   }
+
 }
 
 void compile(){
   for (int i = 0; i < DirSrcDst.length; i++){
     _compile(DirSrcDst[i]["SourceCSSDirectory"], DirSrcDst[i]["CSSExportDirectory"]);
   }
+  print("Compiled CSS files. ");
+
   for (int i = 0; i < SupportFiles.length; i++){
     _copySupportFiles(SupportFiles[i]["AssestDirectorySource"], SupportFiles[i]["AssestDirectoryDest"]);
   }
+  print("Copied Support Files as well :)");
 
 }

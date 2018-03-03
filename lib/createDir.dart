@@ -34,8 +34,11 @@ void create(){
   for (int i = 0; i < DirSrcDst.length; i++){
     _create(DirSrcDst[i]["SourceCSSDirectory"], DirSrcDst[i]["CSSExportDirectory"]);
   }
+  print("CSS Directorys created.");
+
   for (int i = 0; i < SupportFiles.length; i++){
     _createSupport(SupportFiles[i]["AssestDirectorySource"], SupportFiles[i]["AssestDirectoryDest"]);
   }
+  print("Support Directorys as well :)");
 
 }
