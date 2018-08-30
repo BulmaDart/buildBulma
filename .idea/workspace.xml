@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="" />
+    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/css/bulma/bulma.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bulmaCSS.zip" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="deploy.cmd" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deploy.cmd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="49" selection-start-column="49" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -213,12 +206,13 @@
             <path>
               <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
               <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
               <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,11 +260,11 @@
       <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib\css\bulma" />
       <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib\src\PluginsCSS" />
       <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib\src\CustomCSS" />
       <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib\src\CustomCSS\bulma" />
       <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma" />
-      <recent name="C:\Source\CMS\TLMCMS\Bulma\buildBulma\lib\src\FontAwesome5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -349,7 +343,7 @@
       <workItem from="1520077284197" duration="21884000" />
       <workItem from="1520104908716" duration="1966000" />
       <workItem from="1528147881562" duration="585000" />
-      <workItem from="1535568926922" duration="21935000" />
+      <workItem from="1535568926922" duration="22477000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed typo in fonts for FontAwesome4">
       <created>1520105777279</created>
@@ -362,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106315000" />
+    <option name="totallyTimeSpent" value="106857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -393,8 +387,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" visible="true" weight="0.3277635" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18573265" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" visible="true" weight="0.3277635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18573265" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -424,13 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/src/update.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/scss/DirectoryList.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1598">
@@ -716,10 +703,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/bulma/bulma.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.cmd">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
+          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
         </state>
       </provider>
     </entry>
