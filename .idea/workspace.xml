@@ -1,354 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/bulma.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/base/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/base/generic.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/base/helpers.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/base/minireset.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/breadcrumb.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/card.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/dropdown.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/level.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/media.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/menu.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/message.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/modal.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/navbar.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/pagination.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/panel.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/components/tabs.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/box.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/button.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/container.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/content.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/form.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/icon.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/image.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/notification.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/other.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/progress.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/table.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/tag.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/elements/title.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/grid/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/grid/columns.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/grid/tiles.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/layout/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/layout/footer.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/layout/hero.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/layout/section.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/_all.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/animations.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/controls.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/derived-variables.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/functions.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/initial-variables.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/sass/utilities/mixins.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/nuclear/_overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/nuclear/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/nuclear/bulmaswatch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/nuclear/bulmaswatch.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/CustomCSS/nuclear/bulmaswatch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/aside.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/cheatsheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/forum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/hero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/inbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/instaAlbum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/kanban.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/landing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/css/tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/band.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/bulma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/cards.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/fav_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/forum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/inbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/instaalbum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/kanban.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/kanban2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/landing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/images/tabs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/js/bulma.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/js/kanban.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/js/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/aside.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/band.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/cheatsheet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/cover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/forum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/inbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/instaAlbum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/kanban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/kanban[search].html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/landing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/modal-cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/skeleton.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulma-templates/templates/tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/bulmaswatch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/update.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/buildBulma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/buildBulma.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/SpivEgin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/SpivEgin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/bulma.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/bulma.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/generic.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/base/minireset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/level.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/message.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/panel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/components/tabs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/container.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/content.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/notification.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/other.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/tag.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/elements/title.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/columns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/grid/tiles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/layout/section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/animations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/controls.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/derived-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/initial-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/bulma/scss/utilities/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/cerulean.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/cosmo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/cyborg/cyborg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/darkly/darkly.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/default/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/default/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/flatly/flatly.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/is-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/is-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/_all.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/case.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/chat.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/datatable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/fullcalendar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/general.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/listgroup.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/message.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/package.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/panel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/patch.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/range.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/ribbon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/tab.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/tile.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/is-awesome/scss/variable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/journal/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/journal/journal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/litera/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/litera/litera.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lumen/lumen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/lux/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/lux/lux.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/materia/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materia/materia.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/_overrides.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/bulmaMaterialDesigne.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/materialDesign/materialDesign.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/minty/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/minty/minty.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/pulse/pulse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/sandstone/sandstone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/simplex/simplex.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/slate/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/slate/slate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/solar/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/solar/solar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/spacelab/spacelab.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/superhero/superhero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/united/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/united/united.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/bulmaswatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/CustomCSS/yeti/yeti.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/admin/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/admin/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/admin/tlm-admin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/blog/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/blog/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/blog/tlm-blog.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/feed/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/feed/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/feed/tlm-feed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/flyer/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/flyer/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/flyer/tlm-flyer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/forum/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/forum/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/forum/tlm-forum.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/PluginsCSS/aside/aside.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/hero/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/hero/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/hero/tlm-hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/inbox/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/inbox/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/inbox/tlm-inbox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/index/base/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/PluginsCSS/admin/admin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/index/tlm-index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/login/base/_extends.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/login/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/PluginsCSS/login/tlm-login.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="3c0af255-65dc-450f-a4d3-5d461fc42b83" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -358,11 +11,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hero.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/hero/hero.scss">
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildDirectory.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bulmaswatch.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bulmaswatch.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -389,6 +69,7 @@
       <find>@import &quot;bulma&quot;;</find>
       <find>.c</find>
       <find>.css</find>
+      <find>@import &quot;../bulma&quot;;</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -396,6 +77,7 @@
       <replace>_supportFiles</replace>
       <replace>SupportFiles</replace>
       <replace>@import &quot;../bulma&quot;;</replace>
+      <replace>@import &quot;../bulma/bulma&quot;;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Source\CMS\TLMCMS\Bulma\buildBulma\CustomCSS\bulma</dir>
@@ -422,7 +104,6 @@
         <option value="$PROJECT_DIR$/CustomCSS/bulma/bulma.scss" />
         <option value="$PROJECT_DIR$/bin/createDir.dart" />
         <option value="$PROJECT_DIR$/CustomCSS/is-awesome/scss/_all.scss" />
-        <option value="$PROJECT_DIR$/bin/main.dart" />
         <option value="$PROJECT_DIR$/lib/env.dart" />
         <option value="$PROJECT_DIR$/bin/buildDirectory.dart" />
         <option value="$PROJECT_DIR$/lib/src/scss/DirectoryList.dart" />
@@ -440,13 +121,6 @@
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/compile_test.dart" />
         <option value="$PROJECT_DIR$/lib/createDir.dart" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/inbox/inbox.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/index/index.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/instaAlbum/instaAlbum.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/kanban/kanban.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/landing/landing.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/login/login.scss" />
-        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/tabs/tabs.scss" />
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/mkd.cmd" />
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/aside/aside.scss" />
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/blog/blog.scss" />
@@ -455,6 +129,16 @@
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/cheatsheet/cheatsheet.scss" />
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/forum/forum.scss" />
         <option value="$PROJECT_DIR$/lib/src/PluginsCSS/hero/hero.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/inbox/inbox.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/index/index.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/instaAlbum/instaAlbum.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/kanban/kanban.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/landing/landing.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/login/login.scss" />
+        <option value="$PROJECT_DIR$/lib/src/PluginsCSS/tabs/tabs.scss" />
+        <option value="$PROJECT_DIR$/bin/main.dart" />
+        <option value="$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss" />
+        <option value="$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss" />
       </list>
     </option>
   </component>
@@ -552,80 +236,6 @@
             <path>
               <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
               <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="inbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="instaAlbum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="kanban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="landing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="buildBulma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="buildBulma" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PluginsCSS" type="462c0819:PsiDirectoryNode" />
-              <item name="tabs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -755,7 +365,7 @@
       <workItem from="1520077284197" duration="21884000" />
       <workItem from="1520104908716" duration="1966000" />
       <workItem from="1528147881562" duration="585000" />
-      <workItem from="1535568926922" duration="20114000" />
+      <workItem from="1535568926922" duration="21596000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed typo in fonts for FontAwesome4">
       <created>1520105777279</created>
@@ -768,10 +378,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104494000" />
+    <option name="totallyTimeSpent" value="105976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Cargo" order="3" />
@@ -830,13 +441,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/src/scss/cssFrameworks.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/bulma/bulma.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -906,9 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/main.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/createDir.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-284">
@@ -933,13 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/bulma/bulma.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -955,9 +549,6 @@
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/bulma-templates/templates/cheatsheet.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1001,55 +592,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/tlm/tlm.scss">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/inbox/inbox.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/index/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/instaAlbum/instaAlbum.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/kanban/kanban.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/landing/landing.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/login/login.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/tabs/tabs.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/csstemp/admin.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1114,10 +656,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/inbox/inbox.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/hero/hero.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/index/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/instaAlbum/instaAlbum.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/kanban/kanban.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/landing/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/login/login.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/PluginsCSS/tabs/tabs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/buildDirectory.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/cosmo/bulmaswatch.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/CustomCSS/cerulean/bulmaswatch.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
