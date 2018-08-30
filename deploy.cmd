@@ -1,1 +1,1 @@
-git add -A && git commit -m "build and added dist" && git push
+git add -A && git commit -m "build and added dist" && git push && git push github master
