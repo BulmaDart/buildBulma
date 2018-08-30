@@ -1,0 +1,31 @@
+/*
+* Legion Market v0.7.1
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+/* Start nav drawer */
+/*End nav drawer  */
+.columns {
+  margin-top: 0;
+}
+
+aside.column {
+  padding: 0;
+  box-shadow: 2px 0px 4px #888888;
+}
+
+.panel-heading {
+  border: 0;
+  border-radius: 0;
+}
+
+.panel-block {
+  border: 0;
+  border-radius: 0;
+  justify-content: center;
+}
+
+section.column {
+  padding: 2rem;
+}

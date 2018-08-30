@@ -5,12 +5,11 @@ version: 0.0.1
 #author: SpivEgin <email@example.com>
 
 environment:
-  sdk: '>=2.0.0-dev.30.0 <2.0.0'
+  sdk: '>=2.0.0 <3.0.0'
 
-dependencies:
-  font_awesome: any
-  sass_builder: any
 
 dev_dependencies:
-  test: ^0.12.0
-  build_runner: ^0.7.10+1
+#  build_runner: ^0.10.1
+#  sass:
+#    git: https://github.com/BulmaDart/dart-sass.git
+  sass_builder: 2.1.1

@@ -6,7 +6,7 @@ main(List<String> arguments) {
 //  customCSS = ['admin', 'feed', 'flyer', 'forum', 'hero', 'inbox', 'index', 'login'];
   tlm.directoryList("CustomCSS");
  var customCSS = tlm.directoryList("CustomCSS");
-//  print(customCSS);
+  print(customCSS);
 /*
   for (var x in customCSS) {
     tlm.buildCustomSCSS(x.toString(), "tlm");

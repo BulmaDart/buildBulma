@@ -1,0 +1,45 @@
+/*
+* Legion Market v0.7.1
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+.tabs {
+  margin-bottom: -1px !important;
+  position: relative;
+}
+
+.tab-content {
+  padding: 60px;
+  top: 197px;
+  color: #000;
+  background-color: white;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.is-active {
+  display: block;
+  width: 50%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.is-active {
+  display: initial;
+}
+
+.cent {
+  display: block;
+  margin: 10px auto;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
+}
