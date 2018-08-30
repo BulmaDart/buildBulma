@@ -1,1 +1,1 @@
-git add -A && git commit -m "build and added dist" && git push && git push github master
+git add -A && git commit -m "added bulma.css to dist" && git push && git push github master
